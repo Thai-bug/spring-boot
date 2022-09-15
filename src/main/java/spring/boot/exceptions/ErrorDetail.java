@@ -2,7 +2,6 @@ package spring.boot.exceptions;
 
 import lombok.Getter;
 import lombok.Setter;
-import lombok.AccessLevel;
 import java.util.Date;
 
 public class ErrorDetail {
